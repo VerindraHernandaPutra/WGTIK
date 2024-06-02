@@ -2,7 +2,7 @@ function kenaRazia(date, data) {
     const daerahTilang = ["Gajah Mada", "Hayam Wuruk", "Panglima Polim", "Tomang Raya", "Sisingamangaraja", "Fatmawati"];
     let tilang = [];
     
-    data.forEach((vehicle) => {
+    data.forEach((vehicle) => {mjnjnjnjnjnjnjnjnjnjnjnjn
       let count = 0;
       if (vehicle.type === "Mobil") {
         vehicle.rute.forEach((rute) => {
